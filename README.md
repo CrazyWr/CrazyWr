@@ -1,4 +1,9 @@
-[![Wei's GitHub stats](https://github-readme-stats-theta-snowy-87.vercel.app/api?username=CrazyWr&show_icons=true&theme=nord&hide_rank=false&hide=stars&rank_icon=default&include_all_commits=false&show=discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/CrazyWr)
+
+<a href="https://github.com/CrazyWr">
+  <img align="center" src="https://github-readme-stats-theta-snowy-87.vercel.app/api?username=CrazyWr&show_icons=true&theme=nord&hide_rank=false&hide=stars&rank_icon=github&include_all_commits=false&show=discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+</a>
+
+<!-- ![Top Langs](https://github-readme-stats-theta-snowy-87.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 <!--
 **CrazyWr/CrazyWr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
