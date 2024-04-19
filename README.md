@@ -1,6 +1,6 @@
 
 <a href="https://github.com/CrazyWr">
-  <img align="center" src="https://github-readme-stats-theta-snowy-87.vercel.app/api?username=CrazyWr&show_icons=true&theme=nord&hide_rank=false&rank_icon=default&include_all_commits=true&show=discussions_started,discussions_answered,prs_merged,prs_merged_percentage&cache_seconds=10&hide_border=true" />
+  <img align="center" src="https://github-readme-stats-theta-snowy-87.vercel.app/api?username=CrazyWr&show_icons=true&theme=nord&hide_rank=false&rank_icon=github&include_all_commits=true&show=discussions_started,discussions_answered,prs_merged,prs_merged_percentage&cache_seconds=10&hide_border=true" />
 </a>
 
 <!-- ![Top Langs](https://github-readme-stats-theta-snowy-87.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
