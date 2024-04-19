@@ -1,4 +1,4 @@
-[![Wei's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrazyWr&theme=nord&hide_rank=false&hide=stars&rank_icon=github&include_all_commits=true)](https://github.com/CrazyWr/github-readme-stats)
+[![Wei's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrazyWr&theme=nord&hide_rank=false&hide=stars&rank_icon=github&include_all_commits=true)](https://github.com/CrazyWr)
 
 <!--
 **CrazyWr/CrazyWr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
