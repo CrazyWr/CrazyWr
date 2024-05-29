@@ -30,7 +30,8 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-OCI-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-AliCloud-informational?style=flat&logo=alibabacloud&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-TencentCloud-informational?style=flat&logo=tencentcloud&logoColor=white&color=2bbc8a)
 
 ## 🤔 Github Stats
 <a href="https://github.com/CrazyWr">
